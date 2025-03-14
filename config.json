@@ -1,0 +1,12 @@
+{
+    "cookies": {
+        "账号名称": {
+            "cookie": "UID=1234; CID=1234; SEID=1234; KID=1234",
+            "cid": {
+                "目录名称": "目录cid"
+            }
+        }
+    },
+    "tg_token": "tg机器人api token",
+    "bound_user_id": "tg用户id"
+}
