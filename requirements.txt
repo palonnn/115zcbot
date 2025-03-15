@@ -1,2 +1,5 @@
 P115Client
+python-115
 python-telegram-bot
+requests
+asyncio
